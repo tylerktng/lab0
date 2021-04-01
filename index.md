@@ -27,15 +27,18 @@ public class HelloWorld {
 ```
 
 Tasks for this lab:
-[x] Part 1
-[x] Part 2
-[x] Part 3
+- [x] Part 1
+- [x] Part 2
+- [x] Part 3
 
 Here's a random picture.
 ![Bird](./random/birb.gif "bird")
-[License for this project](./LICENSE)
+
 Here's another (I drew this one in 5 mins):
 ![Birdman](./random/birdman.png "birdman")
+
+
+[License for this project](./LICENSE)
 
 This site was made using [Github Pages](https://pages.github.com)
 
